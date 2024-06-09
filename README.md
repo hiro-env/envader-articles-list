@@ -1,4 +1,4 @@
-# エンベーダー記事執筆一覧
+# エンベーダー執筆記事一覧
 
 - [git shortlogとは？git logとの違いを合わせて解説](https://envader.plus/article/359)
 - [リリース管理に欠かせない！コミットにタグを付ける「git tag」コマンドの使い方](https://envader.plus/article/367)
