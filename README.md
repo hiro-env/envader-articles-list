@@ -1,5 +1,7 @@
 # エンベーダー執筆記事一覧
 
+### 株式会社varより依頼を受け、以下のGitコマンドの記事を作成いたしました。
+
 - [必見！現場で役立つGitコマンド29選をまとめて紹介！](https://envader.plus/article/402)
 - [git shortlogとは？git logとの違いを合わせて解説](https://envader.plus/article/359)
 - [リリース管理に欠かせない！コミットにタグを付ける「git tag」コマンドの使い方](https://envader.plus/article/367)
